@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Gjorge
+## Hi there 👋, I'm Gjorge
 
 <!--
 **GjorgeGajdov/GjorgeGajdov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats-one-delta-83.vercel.app/api/top-langs/?username=gjorgegajdov)](https://github.com/gjorgegajdov/github-readme-stats)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gjorgegajdov)
+
+[![Top Langs](https://github-readme-stats-gjorgegajdov.vercel.app/api/top-langs/?username=gjorgegajdov&layout=compact)](https://github.com/gjorgegajdov/github-readme-stats)
