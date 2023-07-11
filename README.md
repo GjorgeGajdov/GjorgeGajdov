@@ -1,4 +1,4 @@
-<img src="./banner.svg" alt="Colorful banner with hands working computer">
+<img src="./banner.png" alt="Colorful banner with hands working computer" style="border-radius: 6px">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gjorgegajdov)
 [![GjorgeGajdov](https://img.shields.io/badge/gjorgegajdov.com-blue?flat&logo=About.me&logoColor=white)](https://gjorgegajdov.com)
