@@ -1,3 +1,10 @@
+<img src="./banner.svg" alt="Colorful banner with hands working computer">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gjorgegajdov)
+[![GjorgeGajdov](https://img.shields.io/badge/gjorgegajdov.com-blue?flat&logo=About.me&logoColor=white)](https://gjorgegajdov.com)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/gjorge-gajdov-4458b818a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gjorgegajdov@gmail.com)
+
 ## Hi there 👋, I'm Gjorge
 
 <!--
@@ -14,7 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gjorgegajdov)
 
 [![Top Langs](https://github-readme-stats-gjorgegajdov.vercel.app/api/top-langs/?username=gjorgegajdov&layout=compact)](https://github.com/gjorgegajdov/github-readme-stats)
